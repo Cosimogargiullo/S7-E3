@@ -1,0 +1,73 @@
+{
+    "studenti": [
+        {
+            "id": 1,
+            "nome": "Cosimo",
+            "cognome": "Gargiullo",
+            "eta": 21,
+            "sesso": "M",
+            "corso": {
+                "tipo": "Full-Stacl",
+                "durata": "6 Mesi"
+            }
+        },
+        {
+            "id": 2,
+            "nome": "Laura",
+            "cognome": "Gaudencio",
+            "eta": 22,
+            "sesso": "F",
+            "corso": {
+                "tipo": "Full-Stacl",
+                "durata": "6 Mesi"
+            }
+        },
+        {
+            "id": 3,
+            "nome": "Alberto",
+            "cognome": "Scarsi",
+            "eta": 23,
+            "sesso": "M",
+            "corso": {
+                "tipo": "Front-End",
+                "durata": "3 Mesi"
+            }
+        },
+        {
+            "id": 4,
+            "nome": "Riccardo",
+            "cognome": "Sennati",
+            "eta": 24,
+            "sesso": "M",
+            "corso": {
+                "tipo": "Front-End",
+                "durata": "3 Mesi"
+            }
+        },
+        {
+            "id": 5,
+            "nome": "Francesca",
+            "cognome": "Pozzi",
+            "eta": 25,
+            "sesso": "M",
+            "corso": {
+                "tipo": "Front-End",
+                "durata": "3 Mesi"
+            }
+        }
+    ], 
+    "programmi": [
+        {
+            "nome": "HTML"
+        },
+        {
+            "nome": "CSS"
+        },
+        {
+            "nome": "JavaScript"
+        },
+        {
+            "nome": "Bootstrap"
+        }
+    ]
+}
